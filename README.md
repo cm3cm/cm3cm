@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @cm3cm
-- 👀 I’m interested in web development, ML, and human-computer interactions
-- 🌱 I’m currently learning CS at Brown University
-- 🤝 I’m looking to collaborate on growing as a developer!
+- Hi, I’m Caleb!
+- I’m interested in web development, data science, and making the world a better place for everyone. 
+- Currently, I'm majoring in Computer Science and Applied Math at Brown University
+    -   (Most of my projects there are in private repos)
+- I’m looking to collaborate on growing as a software engineer!
 
 
 <!---
